@@ -1,9 +1,8 @@
-# app.py v2
+# app.py
 import streamlit as st
 import vectorbt as vbt
 import yfinance as yf
 import pandas as pd
-import numpy as np
 import plotly.express as px
 
 # Initialize session state
